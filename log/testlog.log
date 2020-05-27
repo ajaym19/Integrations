@@ -1,0 +1,282 @@
+2020-05-23 19:13:56,188 - Integrations -INFO - URL is opened
+2020-05-23 19:17:18,001 - Integrations -INFO - URL is opened
+2020-05-23 19:25:48,588 - Integrations -INFO - URL is opened
+2020-05-23 19:31:07,963 - Integrations -INFO - URL is opened
+2020-05-23 19:31:10,039 - Integrations -INFO - Login Page Title TC is passed
+2020-05-23 19:33:14,520 - Integrations -INFO - URL is opened
+2020-05-23 19:36:58,218 - Integrations -INFO - URL is opened
+2020-05-23 19:37:37,637 - Integrations -INFO - URL is opened
+2020-05-23 19:37:39,686 - Integrations -WARN - Login Page Title TC is failed
+2020-05-23 19:40:48,605 - Integrations -INFO - URL is opened
+2020-05-23 19:40:50,677 - Integrations -INFO - Login Page Title TC is passed
+2020-05-23 19:40:57,815 - Integrations -INFO - URL is opened
+2020-05-23 19:55:46,655 - Integrations -INFO - URL is opened
+2020-05-23 19:55:48,728 - Integrations -INFO - Login Page Title TC is passed
+2020-05-23 19:55:54,343 - Integrations -INFO - URL is opened
+2020-05-23 20:00:41,453 - Integrations -INFO - URL is opened
+2020-05-23 20:00:43,532 - Integrations -INFO - Login Page Title TC is passed
+2020-05-23 20:00:50,775 - Integrations -INFO - URL is opened
+2020-05-23 20:03:18,209 - Integrations -INFO - URL is opened
+2020-05-23 20:06:13,296 - Integrations -INFO - URL is opened
+2020-05-23 20:06:21,016 - Integrations -INFO - Login Successful
+2020-05-23 20:11:52,684 - Integrations -INFO - URL is opened
+2020-05-23 20:12:08,076 - Integrations -INFO - URL is opened
+2020-05-23 20:12:21,561 - Integrations -INFO - URL is opened
+2020-05-23 20:12:36,333 - Integrations -INFO - URL is opened
+2020-05-23 21:09:41,449 - Integrations -INFO - URL is opened
+2020-05-23 21:10:01,826 - Integrations -INFO - Admin Home Page title TC is passed
+2020-05-23 21:10:09,151 - Integrations -INFO - URL is opened
+2020-05-23 21:10:29,748 - Integrations -INFO - URL is opened
+2020-05-23 21:25:33,303 - Integrations -INFO - URL is opened
+2020-05-23 21:25:48,856 - Integrations -INFO - Admin Home Page title TC is passed
+2020-05-23 21:25:56,139 - Integrations -INFO - URL is opened
+2020-05-23 21:26:16,236 - Integrations -INFO - URL is opened
+2020-05-23 21:26:31,128 - Integrations -INFO - Clicking on Content Integration Link
+2020-05-23 21:32:30,297 - Integrations -INFO - URL is opened
+2020-05-23 21:33:44,126 - Integrations -INFO - URL is opened
+2020-05-23 21:35:26,625 - Integrations -INFO - URL is opened
+2020-05-23 21:35:45,212 - Integrations -INFO - Admin label TC is passed
+2020-05-23 22:10:41,608 - Integrations -INFO - URL is opened
+2020-05-23 22:11:00,807 - Integrations -INFO - Clicking on Content Integration Link
+2020-05-23 22:43:14,643 - Integrations -INFO - URL is opened
+2020-05-23 23:11:30,790 - Integrations -INFO - URL is opened
+2020-05-23 23:21:44,603 - Integrations -INFO - URL is opened
+2020-05-23 23:24:06,395 - Integrations -INFO - URL is opened
+2020-05-23 23:27:59,560 - Integrations -INFO - URL is opened
+2020-05-23 23:30:10,835 - Integrations -INFO - URL is opened
+2020-05-23 23:30:56,647 - Integrations -INFO - URL is opened
+2020-05-23 23:34:34,699 - Integrations -INFO - URL is opened
+2020-05-24 14:18:59,496 - Integrations -INFO - URL is opened
+2020-05-24 14:21:09,225 - Integrations -INFO - URL is opened
+2020-05-24 14:23:08,286 - Integrations -INFO - URL is opened
+2020-05-24 14:25:25,221 - Integrations -INFO - URL is opened
+2020-05-24 14:26:09,923 - Integrations -INFO - URL is opened
+2020-05-24 14:29:04,715 - Integrations -INFO - URL is opened
+2020-05-24 14:35:16,375 - Integrations -INFO - URL is opened
+2020-05-24 14:39:43,557 - Integrations -INFO - URL is opened
+2020-05-24 14:42:48,771 - Integrations -INFO - URL is opened
+2020-05-24 15:02:03,213 - Integrations -INFO - URL is opened
+2020-05-24 15:02:27,064 - Integrations -INFO - Initiating CSV Source Creation
+2020-05-24 15:02:27,344 - Integrations -INFO - Clicked on plus icon to add source details
+2020-05-24 15:02:31,304 - Integrations -INFO - CSV Souce is created successfully
+2020-05-24 15:02:50,665 - Integrations -INFO - URL is opened
+2020-05-24 15:03:14,243 - Integrations -INFO - Clicked on plus icon to add source details
+2020-05-24 15:06:03,262 - Integrations -INFO - URL is opened
+2020-05-24 15:06:27,252 - Integrations -INFO - Initiating CSV Source Creation
+2020-05-24 15:06:27,927 - Integrations -INFO - Clicked on plus icon to add source details
+2020-05-24 15:06:32,290 - Integrations -INFO - CSV Souce is created successfully
+2020-05-24 15:06:50,561 - Integrations -INFO - URL is opened
+2020-05-24 15:07:14,642 - Integrations -INFO - Clicked on plus icon to add source details
+2020-05-24 15:07:16,641 - Integrations -INFO - RSS Souce is created successfully
+2020-05-24 15:10:29,243 - Integrations -INFO - URL is opened
+2020-05-24 15:10:53,596 - Integrations -INFO - Clicked on plus icon to add source details
+2020-05-24 15:10:55,759 - Integrations -INFO - RSS Souce is created successfully
+2020-05-24 15:12:24,868 - Integrations -INFO - URL is opened
+2020-05-24 15:12:49,513 - Integrations -INFO - Clicked on plus icon to add source details
+2020-05-24 15:12:51,667 - Integrations -INFO - RSS Souce is created successfully
+2020-05-25 11:35:21,380 - Integrations -INFO - URL is opened
+2020-05-25 11:35:46,073 - Integrations -INFO - Initiating CSV Source Creation Test
+2020-05-25 11:35:46,363 - Integrations -INFO - Clicked on plus icon to add source details, now calling the method based on the Integration Type
+2020-05-25 11:35:46,364 - Integrations -INFO - filling source details for CSV
+2020-05-25 11:35:50,231 - Integrations -INFO - CSV Souce is created successfully
+2020-05-25 11:36:07,670 - Integrations -INFO - URL is opened
+2020-05-25 11:36:31,266 - Integrations -INFO - Initiating RSS Source Creation Test
+2020-05-25 11:36:31,617 - Integrations -INFO - Clicked on plus icon to add source details, now calling the method based on the Integration Type
+2020-05-25 11:36:31,619 - Integrations -INFO - filling source details for CSV
+2020-05-25 11:36:34,009 - Integrations -INFO - RSS Souce is created successfully
+2020-05-25 11:42:23,835 - Integrations -INFO - URL is opened
+2020-05-25 11:42:53,075 - Integrations -INFO - URL is opened
+2020-05-25 18:21:20,464 - Integrations -INFO - Initiating CSV Source Creation Test
+2020-05-25 18:21:20,757 - Integrations -INFO - Clicked on plus icon to add source details, now calling the method based on the Integration Type
+2020-05-25 18:21:20,758 - Integrations -INFO - filling source details for CSV
+2020-05-25 18:21:24,716 - Integrations -INFO - CSV Souce is created successfully
+2020-05-25 19:19:49,844 - Integrations -INFO - Initiating CSV Source Creation Test
+2020-05-25 19:19:50,174 - Integrations -INFO - Clicked on plus icon to add source details, now calling the method based on the Integration Type
+2020-05-25 19:19:50,175 - Integrations -INFO - filling source details for CSV
+2020-05-25 19:20:02,233 - Integrations -INFO - CSV Souce is created successfully
+2020-05-25 19:21:47,048 - Integrations -INFO - Initiating CSV Source Creation Test
+2020-05-25 19:21:47,356 - Integrations -INFO - Clicked on plus icon to add source details, now calling the method based on the Integration Type
+2020-05-25 19:21:47,358 - Integrations -INFO - filling source details for CSV
+2020-05-25 19:21:59,368 - Integrations -INFO - CSV Souce is created successfully
+2020-05-25 19:24:19,854 - Integrations -INFO - Initiating CSV Source Creation Test
+2020-05-25 19:24:20,253 - Integrations -INFO - Clicked on plus icon to add source details, now calling the method based on the Integration Type
+2020-05-25 19:24:20,253 - Integrations -INFO - filling source details for CSV
+2020-05-25 19:24:31,679 - Integrations -INFO - CSV Souce is created successfully
+2020-05-25 19:25:40,126 - Integrations -INFO - Initiating CSV Source Creation Test
+2020-05-25 19:25:40,456 - Integrations -INFO - Clicked on plus icon to add source details, now calling the method based on the Integration Type
+2020-05-25 19:25:40,457 - Integrations -INFO - filling source details for CSV
+2020-05-25 19:25:52,489 - Integrations -INFO - CSV Souce is created successfully
+2020-05-25 20:03:19,256 - Integrations -INFO - Initiating CSV Source Creation Test
+2020-05-25 20:03:19,571 - Integrations -INFO - Clicked on plus icon to add source details, now calling the method based on the Integration Type
+2020-05-25 20:03:19,572 - Integrations -INFO - filling source details for CSV
+2020-05-25 20:03:31,008 - Integrations -INFO - CSV Souce is created successfully
+2020-05-25 20:18:36,743 - Integrations -INFO - Initialization started
+2020-05-25 20:19:41,718 - Integrations -INFO - Initialization started
+2020-05-25 20:19:50,739 - Integrations -INFO - Identified the browser to be used as chrome Launching chrome driver
+2020-05-25 21:27:24,604 - Integrations -INFO - Initialization started
+2020-05-25 21:27:29,811 - Integrations -INFO - Identified the browser to be used as chrome Launching chrome driver
+2020-05-25 21:27:41,987 - Integrations -INFO - Hitting the URL
+2020-05-25 21:28:16,390 - Integrations -INFO - Initiating CSV Source Creation Test
+2020-05-25 21:28:16,634 - Integrations -INFO - Clicked on plus icon to add source details, now calling the method based on the Integration Type
+2020-05-25 21:28:16,635 - Integrations -INFO - filling source details for CSV
+2020-05-25 21:28:29,565 - Integrations -INFO - CSV Souce is created successfully
+2020-05-25 21:34:59,811 - Integrations -INFO - Initialization started
+2020-05-25 21:35:03,119 - Integrations -INFO - Identified the browser to be used as chrome Launching chrome driver
+2020-05-25 21:35:09,519 - Integrations -INFO - Hitting the URL
+2020-05-25 21:35:39,983 - Integrations -INFO - Initiating CSV Source Creation Test
+2020-05-25 21:35:40,277 - Integrations -INFO - Clicked on plus icon to add source details, now calling the method based on the Integration Type
+2020-05-25 21:35:40,277 - Integrations -INFO - filling source details for CSV
+2020-05-25 21:35:52,632 - Integrations -INFO - CSV Souce is created successfully
+2020-05-25 21:40:05,511 - Integrations -INFO - Initialization started
+2020-05-25 21:40:08,845 - Integrations -INFO - Identified the browser to be used as chrome Launching chrome driver
+2020-05-25 21:40:26,648 - Integrations -INFO - Hitting the URL
+2020-05-25 21:41:51,733 - Integrations -INFO - Initialization started
+2020-05-25 21:41:54,536 - Integrations -INFO - Identified the browser to be used as chrome Launching chrome driver
+2020-05-25 21:43:19,668 - Integrations -INFO - Initialization started
+2020-05-25 21:43:23,222 - Integrations -INFO - Identified the browser to be used as chrome Launching chrome driver
+2020-05-25 21:43:31,149 - Integrations -INFO - Hitting the URL
+2020-05-25 21:44:05,854 - Integrations -INFO - Initiating CSV Source Creation Test
+2020-05-25 21:44:06,090 - Integrations -INFO - Clicked on plus icon to add source details, now calling the method based on the Integration Type
+2020-05-25 21:44:06,091 - Integrations -INFO - filling source details for CSV
+2020-05-25 21:44:20,032 - Integrations -INFO - CSV Souce is created successfully
+2020-05-25 21:50:20,906 - Integrations -INFO - Initialization started
+2020-05-25 21:50:24,854 - Integrations -INFO - Identified the browser to be used as chrome Launching chrome driver
+2020-05-25 21:50:31,302 - Integrations -INFO - Hitting the URL
+2020-05-25 22:09:19,647 - Integrations -INFO - Initialization started
+2020-05-25 22:09:24,625 - Integrations -INFO - Identified the browser to be used as chrome Launching chrome driver
+2020-05-25 22:10:05,932 - Integrations -INFO - Initialization started
+2020-05-25 22:10:08,583 - Integrations -INFO - Identified the browser to be used as chrome Launching chrome driver
+2020-05-25 22:10:16,706 - Integrations -INFO - Hitting the URL
+2020-05-25 22:11:27,887 - Integrations -INFO - Initialization started
+2020-05-25 22:11:30,290 - Integrations -INFO - Identified the browser to be used as chrome Launching chrome driver
+2020-05-25 22:12:55,639 - Integrations -INFO - Initialization started
+2020-05-25 22:12:58,199 - Integrations -INFO - Identified the browser to be used as chrome Launching chrome driver
+2020-05-25 22:14:53,411 - Integrations -INFO - Initialization started
+2020-05-25 22:14:56,218 - Integrations -INFO - Identified the browser to be used as chrome Launching chrome driver
+2020-05-26 11:03:54,122 - Integrations -INFO - Initialization started
+2020-05-26 11:03:58,693 - Integrations -INFO - Identified the browser to be used as chrome Launching chrome driver
+2020-05-26 11:04:07,126 - Integrations -INFO - Hitting the URL
+2020-05-26 11:04:29,525 - Integrations -INFO - Initiating CSV Source Creation Test
+2020-05-26 11:04:29,760 - Integrations -INFO - Clicked on plus icon to add source details, now calling the method based on the Integration Type
+2020-05-26 11:04:29,762 - Integrations -INFO - filling source details for CSV
+2020-05-26 11:04:41,469 - Integrations -INFO - CSV Souce is created successfully
+2020-05-26 12:30:38,877 - Integrations -INFO - Initialization started
+2020-05-26 12:30:42,723 - Integrations -INFO - Identified the browser to be used as chrome Launching chrome driver
+2020-05-26 12:30:49,696 - Integrations -INFO - Hitting the URL
+2020-05-26 12:31:12,313 - Integrations -INFO - Initiating CSV Source Creation Test
+2020-05-26 12:31:12,603 - Integrations -INFO - Clicked on plus icon to add source details, now calling the method based on the Integration Type
+2020-05-26 12:31:12,604 - Integrations -INFO - filling source details for CSV
+2020-05-26 12:31:24,593 - Integrations -INFO - CSV Souce is created successfully
+2020-05-26 12:32:55,062 - Integrations -INFO - Initialization started
+2020-05-26 12:32:58,336 - Integrations -INFO - Identified the browser to be used as chrome Launching chrome driver
+2020-05-26 12:33:04,724 - Integrations -INFO - Hitting the URL
+2020-05-26 12:33:29,287 - Integrations -INFO - Initiating CSV Source Creation Test
+2020-05-26 12:33:29,610 - Integrations -INFO - Clicked on plus icon to add source details, now calling the method based on the Integration Type
+2020-05-26 12:33:29,611 - Integrations -INFO - filling source details for CSV
+2020-05-26 12:33:41,504 - Integrations -INFO - CSV Souce is created successfully
+2020-05-26 14:05:30,896 - Integrations -INFO - Initialization started
+2020-05-26 14:05:34,729 - Integrations -INFO - Identified the browser to be used as chrome Launching chrome driver
+2020-05-26 14:05:40,736 - Integrations -INFO - Hitting the URL
+2020-05-26 14:23:15,335 - Integrations -INFO - Initialization started
+2020-05-26 14:23:19,187 - Integrations -INFO - Identified the browser to be used as chrome Launching chrome driver
+2020-05-26 14:23:25,242 - Integrations -INFO - Hitting the URL
+2020-05-26 14:23:47,427 - Integrations -INFO - Initiating CSV Source Creation Test
+2020-05-26 14:23:47,694 - Integrations -INFO - Clicked on plus icon to add source details, now calling the method based on the Integration Type
+2020-05-26 14:23:47,695 - Integrations -INFO - filling source details for CSV
+2020-05-26 14:23:59,616 - Integrations -INFO - CSV Souce is created successfully
+2020-05-26 14:27:12,028 - Integrations -INFO - Initialization started
+2020-05-26 14:27:15,248 - Integrations -INFO - Identified the browser to be used as chrome Launching chrome driver
+2020-05-26 14:27:19,166 - Integrations -INFO - Hitting the URL
+2020-05-26 14:27:41,754 - Integrations -INFO - Initiating CSV Source Creation Test
+2020-05-26 14:27:42,009 - Integrations -INFO - Clicked on plus icon to add source details, now calling the method based on the Integration Type
+2020-05-26 14:27:42,009 - Integrations -INFO - filling source details for CSV
+2020-05-26 14:27:53,834 - Integrations -INFO - CSV Souce is created successfully
+2020-05-26 14:34:20,121 - Integrations -INFO - Initialization started
+2020-05-26 14:34:23,867 - Integrations -INFO - Identified the browser to be used as chrome Launching chrome driver
+2020-05-26 14:34:29,366 - Integrations -INFO - Hitting the URL
+2020-05-26 14:34:51,732 - Integrations -INFO - Initiating CSV Source Creation Test
+2020-05-26 14:34:52,060 - Integrations -INFO - Clicked on plus icon to add source details, now calling the method based on the Integration Type
+2020-05-26 14:34:52,060 - Integrations -INFO - filling source details for CSV
+2020-05-26 14:35:03,713 - Integrations -INFO - CSV Souce is created successfully
+2020-05-26 14:37:08,487 - Integrations -INFO - Initialization started
+2020-05-26 14:37:11,227 - Integrations -INFO - Identified the browser to be used as chrome Launching chrome driver
+2020-05-26 14:37:16,883 - Integrations -INFO - Hitting the URL
+2020-05-26 14:37:38,739 - Integrations -INFO - Initiating CSV Source Creation Test
+2020-05-26 14:37:38,996 - Integrations -INFO - Clicked on plus icon to add source details, now calling the method based on the Integration Type
+2020-05-26 14:37:38,998 - Integrations -INFO - filling source details for CSV
+2020-05-26 14:37:50,599 - Integrations -INFO - CSV Souce is created successfully
+2020-05-26 14:41:11,032 - Integrations -INFO - Initialization started
+2020-05-26 14:41:14,238 - Integrations -INFO - Identified the browser to be used as chrome Launching chrome driver
+2020-05-26 14:41:20,575 - Integrations -INFO - Hitting the URL
+2020-05-26 14:41:42,012 - Integrations -INFO - Initiating CSV Source Creation Test
+2020-05-26 14:41:42,262 - Integrations -INFO - Clicked on plus icon to add source details, now calling the method based on the Integration Type
+2020-05-26 14:41:42,264 - Integrations -INFO - filling source details for CSV
+2020-05-26 14:41:53,712 - Integrations -INFO - CSV Souce is created successfully
+2020-05-26 14:42:21,928 - Integrations -INFO - Initialization started
+2020-05-26 14:42:24,593 - Integrations -INFO - Identified the browser to be used as chrome Launching chrome driver
+2020-05-26 14:42:29,852 - Integrations -INFO - Hitting the URL
+2020-05-26 14:42:52,358 - Integrations -INFO - Initiating CSV Source Creation Test
+2020-05-26 14:42:52,633 - Integrations -INFO - Clicked on plus icon to add source details, now calling the method based on the Integration Type
+2020-05-26 14:42:52,634 - Integrations -INFO - filling source details for CSV
+2020-05-26 14:43:04,477 - Integrations -INFO - CSV Souce is created successfully
+2020-05-26 14:44:02,526 - Integrations -INFO - Initialization started
+2020-05-26 14:44:05,249 - Integrations -INFO - Identified the browser to be used as chrome Launching chrome driver
+2020-05-26 14:44:10,422 - Integrations -INFO - Hitting the URL
+2020-05-26 14:44:32,410 - Integrations -INFO - Initiating CSV Source Creation Test
+2020-05-26 14:44:32,686 - Integrations -INFO - Clicked on plus icon to add source details, now calling the method based on the Integration Type
+2020-05-26 14:44:32,687 - Integrations -INFO - filling source details for CSV
+2020-05-26 14:44:44,473 - Integrations -INFO - CSV Souce is created successfully
+2020-05-26 14:48:43,612 - Integrations -INFO - Initialization started
+2020-05-26 14:48:46,534 - Integrations -INFO - Identified the browser to be used as chrome Launching chrome driver
+2020-05-26 14:48:52,019 - Integrations -INFO - Hitting the URL
+2020-05-26 14:49:51,070 - Integrations -INFO - Initialization started
+2020-05-26 14:49:53,762 - Integrations -INFO - Identified the browser to be used as chrome Launching chrome driver
+2020-05-26 14:49:57,615 - Integrations -INFO - Hitting the URL
+2020-05-26 14:52:06,294 - Integrations -INFO - Initialization started
+2020-05-26 14:52:08,759 - Integrations -INFO - Identified the browser to be used as chrome Launching chrome driver
+2020-05-26 14:52:13,964 - Integrations -INFO - Hitting the URL
+2020-05-26 14:52:36,295 - Integrations -INFO - Initiating CSV Source Creation Test
+2020-05-26 14:52:36,577 - Integrations -INFO - Clicked on plus icon to add source details, now calling the method based on the Integration Type
+2020-05-26 14:52:36,578 - Integrations -INFO - filling source details for CSV
+2020-05-26 14:52:47,991 - Integrations -INFO - CSV Souce is created successfully
+2020-05-26 14:55:00,897 - Integrations -INFO - Initialization started
+2020-05-26 14:55:03,843 - Integrations -INFO - Identified the browser to be used as chrome Launching chrome driver
+2020-05-26 14:55:09,176 - Integrations -INFO - Hitting the URL
+2020-05-26 14:55:30,829 - Integrations -INFO - Initiating CSV Source Creation Test
+2020-05-26 14:55:31,162 - Integrations -INFO - Clicked on plus icon to add source details, now calling the method based on the Integration Type
+2020-05-26 14:55:31,164 - Integrations -INFO - filling source details for CSV
+2020-05-26 14:55:42,843 - Integrations -INFO - CSV Souce is created successfully
+2020-05-26 16:47:00,915 - Integrations -INFO - Initialization started
+2020-05-26 16:47:05,147 - Integrations -INFO - Identified the browser to be used as chrome Launching chrome driver
+2020-05-26 16:47:10,902 - Integrations -INFO - Hitting the URL
+2020-05-26 16:47:34,331 - Integrations -INFO - Initiating CSV Source Creation Test
+2020-05-26 16:47:35,240 - Integrations -INFO - Clicked on plus icon to add source details, now calling the method based on the Integration Type
+2020-05-26 16:47:35,241 - Integrations -INFO - filling source details for CSV
+2020-05-26 16:47:46,676 - Integrations -INFO - CSV Souce is created successfully
+2020-05-26 19:00:02,276 - Integrations -INFO - Initialization started
+2020-05-26 19:00:05,464 - Integrations -INFO - Identified the browser to be used as chrome Launching chrome driver
+2020-05-26 19:00:11,303 - Integrations -INFO - Hitting the URL
+2020-05-26 19:00:34,791 - Integrations -INFO - Initiating CSV Source Creation Test
+2020-05-26 19:00:35,117 - Integrations -INFO - Clicked on plus icon to add source details, now calling the method based on the Integration Type
+2020-05-26 19:00:35,117 - Integrations -INFO - filling source details for CSV
+2020-05-26 19:00:46,678 - Integrations -INFO - CSV Souce is created successfully
+2020-05-27 17:08:56,859 - Integrations -INFO - Initialization started
+2020-05-27 17:09:02,541 - Integrations -INFO - Identified the browser to be used as chrome Launching chrome driver
+2020-05-27 17:09:07,638 - Integrations -INFO - Hitting the URL
+2020-05-27 17:09:34,929 - Integrations -INFO - Initiating CSV Source Creation Test
+2020-05-27 17:09:35,449 - Integrations -INFO - Clicked on plus icon to add source details, now calling the method based on the Integration Type
+2020-05-27 17:09:35,450 - Integrations -INFO - filling source details for CSV
+2020-05-27 17:09:48,402 - Integrations -INFO - CSV Souce is created successfully
+2020-05-27 17:09:48,402 - Integrations -INFO - Initiating CSV Fetch Content
+2020-05-27 17:09:59,532 - Integrations -INFO - CSV Fetch Content Initiated
+2020-05-27 17:09:59,533 - Integrations -INFO - Verifying Source on UI
+2020-05-27 17:20:53,639 - Integrations -INFO - Initialization started
+2020-05-27 17:20:58,308 - Integrations -INFO - Identified the browser to be used as chrome Launching chrome driver
+2020-05-27 17:21:03,925 - Integrations -INFO - Hitting the URL
+2020-05-27 17:21:27,505 - Integrations -INFO - Initiating CSV Source Creation Test
+2020-05-27 17:21:28,011 - Integrations -INFO - Clicked on plus icon to add source details, now calling the method based on the Integration Type
+2020-05-27 17:21:28,011 - Integrations -INFO - filling source details for CSV
+2020-05-27 17:21:34,426 - Integrations -INFO - CSV Souce is created successfully
+2020-05-27 17:21:34,428 - Integrations -INFO - Initiating CSV Fetch Content
+2020-05-27 17:21:47,651 - Integrations -INFO - CSV Fetch Content Initiated
+2020-05-27 17:21:47,654 - Integrations -INFO - Verifying Source on UI

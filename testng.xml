@@ -1,0 +1,24 @@
+
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+  
+<suite name="LXP UI Automation Testing" verbose="1" >
+
+	<listeners>
+	
+		<listener class-name="com.integrations.reports.Reporting">
+		</listener>
+		
+	</listeners>
+  <test name="Content Integration" >
+  	<parameter name="browser" value="chrome"></parameter>
+    <classes>
+    	<class name="com.integrations.testcases.LoginPageTest"/>
+    	<class name="com.integrations.testcases.HomePageTest"/>
+    	<class name="com.integrations.testcases.AdminHomePageTest"/>
+    	<class name="com.integrations.testcases.ContentIntegrationPageTest"/>
+    </classes>
+  </test>
+ 
+
+</suite>
+
