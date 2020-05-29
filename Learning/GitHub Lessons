@@ -1,0 +1,41 @@
+Create a GIT Repo in GITHUB
+Open terminal and navigate t your project
+
+
+Steps:
+1. GIT Init: initializae your project with git >> git init >> now you git is initialized for your peoject
+2. GIT Add remote origin: now we need to paste the below code coped from github website and hit enter
+	git remote add origin https://github.com/ajaym19/Integrations.git
+	git remote add origin {this is the path of your repo}
+3. Use git status command to check the status of the code been merged, red means not merged
+4. use git add .  >> this will give you the changes to be commited
+5. use git commit -m "message here"   >> this will commit your code but yet not pushed on server
+6. use git push origin master
+	But it may give error when we push 
+	so to push you need to have ssh public key
+	Generate public key for your account/machine
+		use ssh-keygen -t rsa command
+		enter yes
+		enter system password
+		use pbcopy < ~/.ssh/id_rsa.pub to copy ur ssh in clip board.
+		
+	go to setting in github website of your account
+		create new SSH Key
+		and enter this ssh key over there and create
+		
+		
+		
+To get a project from git to our system
+1. get the project link from github
+2. create a dir in ur systm using mkdir 
+3. use git clone path_of_the_github_project
+4. to get new update, dont clone again,just navigate to the project and use git pull origin master
+
+To create a new Branch
+	1. use git branch "branchname"
+	2. use git checkout "branchname" - now all changs will go to new branch
+		
+	
+
+
+
