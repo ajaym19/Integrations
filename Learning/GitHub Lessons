@@ -34,6 +34,15 @@ To get a project from git to our system
 To create a new Branch
 	1. use git branch "branchname"
 	2. use git checkout "branchname" - now all changs will go to new branch
+	3. perform some changes and commit using below steps
+		3. Use git status command to check the status of the code been merged, red means not merged
+		4. use git add .  >> this will give you the changes to be commited
+		5. use git commit -m "message here"   >> this will commit your code but yet not pushed on server
+		6. use git push origin "branchname"
+	4. Finally merge the new branch into master using git merge "branchame"
+		But before merge, u need to checkout master using git checkout master
+	5. then also push the master changes git push origin master
+	
 		
 	
 
