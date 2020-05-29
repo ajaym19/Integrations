@@ -42,6 +42,9 @@ To create a new Branch
 	4. Finally merge the new branch into master using git merge "branchame"
 		But before merge, u need to checkout master using git checkout master
 	5. then also push the master changes git push origin master
+	6. delete the branch if you need git branch -d "branchname"  -- this will delete only locally not github
+	7. to delete from remote also git push origin --delete "branchname"
+	
 	
 		
 	
