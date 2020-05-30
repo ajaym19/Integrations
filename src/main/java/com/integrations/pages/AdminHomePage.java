@@ -11,6 +11,7 @@ import com.integrations.base.TestBase;
 import com.integrations.util.TestUtil;
 
 public class AdminHomePage extends TestBase{
+	//t
 	
 	@FindBy(xpath = "//div[@class='links-container']//button[1]") WebElement adminLabel_xpath;
 	@FindBy(xpath = "//ul[@class='sidebar-nav second-menu']//li//a//span[text()='Integrations']") WebElement content_Integration_Link_xpath;
